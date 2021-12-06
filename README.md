@@ -9,4 +9,4 @@ My implementations of solutions for [Advent of Code](https://adventofcode.com/) 
 | [Day 3: Binary Diagnostic](https://adventofcode.com/2021/day/3) | :star: :star: | [binary_diagnostic.pl](d03/binary_diagnostic.pl) |
 | [Day 4: Giant Squid](https://adventofcode.com/2021/day/4) | :star: :star: | [giant_squid.pl](d04/giant_squid.pl) |
 | [Day 5: Hydrothermal Venture](https://adventofcode.com/2021/day/5) | :star: :star: | [hydrothermal_venture.pl](d05/hydrothermal_venture.pl) |
-| [Day 6: Lanternfish](https://adventofcode.com/2021/day/6) | :star: | [lanternfish.pl](d06/lanternfish.pl) |
+| [Day 6: Lanternfish](https://adventofcode.com/2021/day/6) | :star: :star: | [lanternfish.pl](d06/lanternfish.pl) |
