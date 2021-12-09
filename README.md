@@ -11,3 +11,4 @@ My implementations of solutions for [Advent of Code](https://adventofcode.com/) 
 | [Day 5: Hydrothermal Venture](https://adventofcode.com/2021/day/5) | :star: :star: | [hydrothermal_venture.pl](d05/hydrothermal_venture.pl) |
 | [Day 6: Lanternfish](https://adventofcode.com/2021/day/6) | :star: :star: | [lanternfish.pl](d06/lanternfish.pl) |
 | [Day 7: The Treachery of Whales](https://adventofcode.com/2021/day/7) | :star: :star: | [the_treachery_of_whales.pl](d07/the_treachery_of_whales.pl) |
+| [Day 8: Seven Segment Search](https://adventofcode.com/2021/day/8) | :star: :star: | [seven_segment_search.pl](d08/seven_segment_search.pl) |
