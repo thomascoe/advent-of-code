@@ -13,3 +13,4 @@ My implementations of solutions for [Advent of Code](https://adventofcode.com/) 
 | [Day 7: The Treachery of Whales](https://adventofcode.com/2021/day/7) | :star: :star: | [the_treachery_of_whales.pl](d07/the_treachery_of_whales.pl) |
 | [Day 8: Seven Segment Search](https://adventofcode.com/2021/day/8) | :star: :star: | [seven_segment_search.pl](d08/seven_segment_search.pl) |
 | [Day 9: Smoke Basin](https://adventofcode.com/2021/day/9) | :star: :star: | [smoke_basin.pl](d09/smoke_basin.pl) |
+| [Day 10: Syntax Scoring](https://adventofcode.com/2021/day/10) | :star: :star: | [syntax_scoring.pl](d10/syntax_scoring.pl) |
