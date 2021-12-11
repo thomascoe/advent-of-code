@@ -16,3 +16,4 @@ Benchmarks from VM with 1 shared vCPU (Intel Xeon Gold 6140 2.3 GHz)
 | [Day 8: Seven Segment Search](https://adventofcode.com/2021/day/8) | :star: :star: | [seven_segment_search.pl](d08/seven_segment_search.pl) | 72 |
 | [Day 9: Smoke Basin](https://adventofcode.com/2021/day/9) | :star: :star: | [smoke_basin.pl](d09/smoke_basin.pl) | 391 |
 | [Day 10: Syntax Scoring](https://adventofcode.com/2021/day/10) | :star: :star: | [syntax_scoring.pl](d10/syntax_scoring.pl) | 18 |
+| [Day 11: Dumbo Octopus](https://adventofcode.com/2021/day/11) | :star: :star: | [dumbo_octopus.pl](d11/dumbo_octopus.pl) | 46 |
