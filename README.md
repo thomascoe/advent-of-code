@@ -17,3 +17,5 @@ Benchmarks from VM with 1 shared vCPU (Intel Xeon Gold 6140 2.3 GHz)
 | [Day 9: Smoke Basin](https://adventofcode.com/2021/day/9) | :star: :star: | [smoke_basin.pl](d09/smoke_basin.pl) | 391 |
 | [Day 10: Syntax Scoring](https://adventofcode.com/2021/day/10) | :star: :star: | [syntax_scoring.pl](d10/syntax_scoring.pl) | 18 |
 | [Day 11: Dumbo Octopus](https://adventofcode.com/2021/day/11) | :star: :star: | [dumbo_octopus.pl](d11/dumbo_octopus.pl) | 46 |
+| [Day 12: Passage Pathing](https://adventofcode.com/2021/day/12) | :star: | [passage_pathing.pl](d12/passage_pathing.pl) | 199 |
+| [Day 13: Transparent Origami](https://adventofcode.com/2021/day/13) | :star: :star: | [transparent_origami.pl](d13/transparent_origami.pl) | 12 |
