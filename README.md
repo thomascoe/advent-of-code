@@ -21,4 +21,4 @@ Benchmarks from VM with 1 shared vCPU (Intel Xeon Gold 6140 2.3 GHz)
 | [Day 13: Transparent Origami](https://adventofcode.com/2021/day/13) | :star: :star: | [transparent_origami.pl](d13/transparent_origami.pl) | 12 |
 | [Day 14: Extended Polymerization](https://adventofcode.com/2021/day/14) | :star: | [extended_polymerization.pl](d14/extended_polymerization.pl) | 70 |
 | [Day 15: Chiton](https://adventofcode.com/2021/day/15) | | [chiton.pl](d15/chiton.pl) | |
-| [Day 16: Packet Decoder](https://adventofcode.com/2021/day/16) | | [packet_decoder.pl](d16/packet_decoder.pl) | |
+| [Day 16: Packet Decoder](https://adventofcode.com/2021/day/16) | :star: | [packet_decoder.pl](d16/packet_decoder.pl) | 235 |
