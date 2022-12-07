@@ -11,3 +11,4 @@ Benchmarks from VM with 1 shared vCPU (Intel Xeon Gold 6140 2.3 GHz)
 | [Day 3: Rucksack Reorganization](https://adventofcode.com/2022/day/3) | :star: :star: | [rucksack_reorganization.pl](d03/rucksack_reorganization.pl) | 27 |
 | [Day 4: Camp Cleanup](https://adventofcode.com/2022/day/4) | :star: :star: | [camp_cleanup.pl](d04/camp_cleanup.pl) | 19 |
 | [Day 5: Supply Stacks](https://adventofcode.com/2022/day/5) | :star: :star: | [supply_stacks.pl](d05/supply_stacks.pl) | 22 |
+| [Day 6: Tuning Trouble](https://adventofcode.com/2022/day/6) | :star: :star: | [tuning_trouble.pl](d06/tuning_trouble.pl) | 35 |
