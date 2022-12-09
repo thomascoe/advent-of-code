@@ -14,3 +14,4 @@ Benchmarks from VM with 1 shared vCPU (Intel Xeon Gold 6140 2.3 GHz)
 | [Day 6: Tuning Trouble](https://adventofcode.com/2022/day/6) | :star: :star: | [tuning_trouble.pl](d06/tuning_trouble.pl) | 35 |
 | [Day 7: No Space Left On Device](https://adventofcode.com/2022/day/7) | :star: :star: | [no_space_left_on_device.pl](d07/no_space_left_on_device.pl) | 23 |
 | [Day 8: Treetop Tree House](https://adventofcode.com/2022/day/8) | :star: :star: | [treetop_tree_house.pl](d08/treetop_tree_house.pl) | 249 |
+| [Day 9: Rope Bridge](https://adventofcode.com/2022/day/9) | :star: | [rope_bridge.pl](d09/rope_bridge.pl) | 59 |
