@@ -90,13 +90,13 @@ my $g_verbose = 0;
     # Iterate through rows and columns (skip the outside perimeter, all of those
     # will have 1 edge with value 0, so the total score will be 0)
     my $max_score = 0;
-    for my $rowno (1 .. (scalar @$tree_map - 2)) {
-        for my $colno (1 .. (scalar @$tree_map - 2)) {
+    for my $rowno (1 .. @$tree_map - 2) {
+        for my $colno (1 .. @$tree_map - 2) {
             # Height of the current tree
             my $cur_height = $tree_map->[$rowno]->[$colno];
 
             my $up = 0;
-            for my $i (reverse(0..($rowno-1))) {
+            for my $i (reverse(0 .. $rowno - 1)) {
                 $up++;
                 if ($tree_map->[$i]->[$colno] >= $cur_height) {
                     last;
@@ -104,7 +104,7 @@ my $g_verbose = 0;
             }
 
             my $down = 0;
-            for my $i (($rowno+1)..(scalar @$tree_map - 1)) {
+            for my $i ($rowno + 1 .. $height - 1) {
                 $down++;
                 if ($tree_map->[$i]->[$colno] >= $cur_height) {
                     last;
@@ -112,7 +112,7 @@ my $g_verbose = 0;
             }
 
             my $left = 0;
-            for my $i (reverse(0..($colno-1))) {
+            for my $i (reverse(0 .. $colno - 1)) {
                 $left++;
                 if ($tree_map->[$rowno]->[$i] >= $cur_height) {
                     last;
@@ -120,7 +120,7 @@ my $g_verbose = 0;
             }
 
             my $right = 0;
-            for my $i (($colno+1)..(scalar @$tree_map - 1)) {
+            for my $i ($colno + 1 .. $width - 1) {
                 $right++;
                 if ($tree_map->[$rowno]->[$i] >= $cur_height) {
                     last;
@@ -129,8 +129,7 @@ my $g_verbose = 0;
 
             my $score = $up * $down * $left * $right;
             $max_score = $score if $score > $max_score;
-            say "($rowno,$colno) Left=$left Right=$right Up=$up Down=$down" if $g_verbose;
-            say "Scenic Score: $score" if $g_verbose;
+            say "($rowno,$colno) Left=$left Right=$right Up=$up Down=$down (Scenic Score: $score)" if $g_verbose;
         }
     }
     say "Part 2: $max_score";
