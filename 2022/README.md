@@ -16,3 +16,6 @@ Benchmarks from VM with 1 shared vCPU (Intel Xeon Gold 6140 2.3 GHz)
 | [Day 8: Treetop Tree House](https://adventofcode.com/2022/day/8) | :star: :star: | [treetop_tree_house.pl](d08/treetop_tree_house.pl) | 249 |
 | [Day 9: Rope Bridge](https://adventofcode.com/2022/day/9) | :star: | [rope_bridge.pl](d09/rope_bridge.pl) | 59 |
 | [Day 10: Cathode-Ray Tube](https://adventofcode.com/2022/day/10) | :star: | [cathoderay_tube.pl](d10/cathoderay_tube.pl) | 7 |
+| [Day 11: Monkey in the Middle](https://adventofcode.com/2022/day/11) | | | |
+| [Day 12: Hill Climbing Algorithm](https://adventofcode.com/2022/day/12) | | | |
+| [Day 13: Distress Signal](https://adventofcode.com/2022/day/13) | :star: :star: | [distress_signal.pl](d13/distress_signal.pl) | 69 |
